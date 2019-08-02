@@ -8,6 +8,5 @@ public class FileInputStream {
                System.out.print((char) i);
            }
         }
-
     }
 }
